@@ -1,6 +1,6 @@
 ## Welcome to Ink&Tales
 
-![alt text](https://github.com/yaeru/inkandtales/blob/gh-pages/logo.jpg?raw=true)
+![alt logo](https://github.com/yaeru/inkandtales/blob/gh-pages/logo.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/yaeru/inkandtales/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
