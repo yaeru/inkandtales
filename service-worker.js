@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6ff39ca06e914e2343cb9ff108722b05.js"
+  "/precache-manifest.de36b13b2131bebe4eb0ae1df6627fa5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "InkAndTales"});
