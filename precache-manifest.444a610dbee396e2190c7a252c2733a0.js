@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fde95c87fca4053a4564",
-    "url": "/css/app.7fe4b2dc.css"
+    "revision": "782610f876c973309581",
+    "url": "/css/app.a18c10ad.css"
   },
   {
     "revision": "c1b4fae46a264e7ff29fc0480055fbf7",
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.png"
   },
   {
-    "revision": "bb2ebe4406f684f010943c0df10d60ca",
+    "revision": "9c1eab2b52830fcd23b99df4551bec43",
     "url": "/favicon/icon-192x192.png"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon/icon-384x384.png"
   },
   {
-    "revision": "eab7ce707c4d7f9d6af9b5a80c286566",
+    "revision": "847ec7d2c50b3615a9e0b0a9e46ed9c2",
     "url": "/favicon/icon-512x512.png"
   },
   {
@@ -40,19 +40,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/samay.7c5d0bd5.jpg"
   },
   {
-    "revision": "7369f14934335f61cab1198883293b6a",
+    "revision": "9c29088c62d6b48316975f59beac8f84",
     "url": "/index.html"
   },
   {
-    "revision": "fde95c87fca4053a4564",
+    "revision": "782610f876c973309581",
     "url": "/js/app.5b776a6d.js"
   },
   {
-    "revision": "d3f9f2c52b8323c1539b",
-    "url": "/js/chunk-vendors.fc75d6a2.js"
+    "revision": "b9a38870c09ac148bead",
+    "url": "/js/chunk-vendors.f79ab201.js"
   },
   {
-    "revision": "156f46cdfdced86ced15ffe7a8194057",
+    "revision": "dd7706ef2a61090bca959fe20e1445e8",
     "url": "/manifest.json"
   },
   {
